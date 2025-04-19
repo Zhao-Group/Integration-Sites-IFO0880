@@ -31,6 +31,6 @@ python code/Uni-deepSG/PredictionTools/predict.py (Note: Requires CUDA)
 <summary>If you using these scripts, please cite us:</summary>
 
 ```bibtex
-
+Xu, H., Shi, L., Boob, A. G., Park, W., Tan, S. I., Tran, V. G., ... & Zhao, H. (2025). Discovery, characterization, and application of chromosomal integration sites for stable heterologous gene expression in Rhodotorula toruloides. Metabolic Engineering.
 ```
 </details>
