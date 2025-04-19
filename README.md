@@ -1,7 +1,7 @@
 # Integration-Sites-IFO0880
 
 ### THE PAPER!
-This repository accompanies the work ["XYZ"](https://www.google.com).
+This repository accompanies the work ["Discovery, characterization, and application of chromosomal integration sites for stable heterologous gene expression in Rhodotorula toruloides"](https://www.sciencedirect.com/science/article/abs/pii/S1096717625000138).
 
 Add scripts and ifo0880 folders to code and data folder of ["CRISPR-COPIES"](https://github.com/Zhao-Group/COPIES) repository.
 
